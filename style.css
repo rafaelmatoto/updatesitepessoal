@@ -1,0 +1,106 @@
+#corpo {
+margin: 0;
+padding-top: 800px ;
+text-align: center;
+}
+ 
+#corpo2 {
+    margin: 0;
+    padding-top: 150px ;
+    text-align: center;
+    }
+    
+
+.profile {
+    border-radius: 50%;
+    width: 500px;
+    margin-top: 50px;
+}
+
+#welcome {
+position: absolute;
+bottom: 0; 
+top:0px;
+background-color: aquamarine;
+display: table;
+width: 100%;
+height: 100%;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family:  Comic Sans MS;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 50px;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+#biografia {
+    font-family: cursive;
+    padding: 50px;
+    width: 1000px;
+    margin: auto;
+}
+
+.line{
+height: 6px;
+background-color: black;
+width: 8px auto ;
+}
+
+.parallax-iner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.menu{
+list-style:none;
+position: absolute;
+top:10px;
+display: inline-flex;
+right:30px;
+cursor: pointer;
+z-index:10;
+}
+
+.links{
+padding:5px ;
+font-family: Comic Sans MS;
+font-size: 20px;
+text-decoration: none;
+}
+.links:hover{
+    background-color: dodgerblue;
+    border-radius: 30px;
+    transition: all 1s ;
+}
+.foto {
+    width: 450px;
+
+}
+#fort {
+    width: 750px;
+}
+#tony {
+    width: 600px;
+}
+link.li.a {
+    text-decoration: none;
+}
+
+
+
+#filmes{
+  display: inline-flex;
+  
+}
